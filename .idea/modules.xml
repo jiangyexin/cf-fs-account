@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cf-fs-account.iml" filepath="$PROJECT_DIR$/cf-fs-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/cf-fs-account-common.iml" filepath="$PROJECT_DIR$/common/cf-fs-account-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/cf-fs-account-dao.iml" filepath="$PROJECT_DIR$/dao/cf-fs-account-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/cf-fs-account-domain.iml" filepath="$PROJECT_DIR$/domain/cf-fs-account-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/export/cf-fs-account-export.iml" filepath="$PROJECT_DIR$/export/cf-fs-account-export.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/cf-fs-account-service.iml" filepath="$PROJECT_DIR$/service/cf-fs-account-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/cf-fs-account-web.iml" filepath="$PROJECT_DIR$/web/cf-fs-account-web.iml" />
+    </modules>
+  </component>
+</project>

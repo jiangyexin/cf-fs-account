@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cf-fs-account-common" />
+        <module name="cf-fs-account-dao" />
+        <module name="cf-fs-account-domain" />
+        <module name="cf-fs-account-export" />
+        <module name="cf-fs-account-service" />
+        <module name="cf-fs-account-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cf-fs-account" target="1.5" />
+      <module name="cf-fs-account-common" target="1.5" />
+      <module name="cf-fs-account-dao" target="1.5" />
+      <module name="cf-fs-account-domain" target="1.5" />
+      <module name="cf-fs-account-export" target="1.5" />
+      <module name="cf-fs-account-service" target="1.5" />
+      <module name="cf-fs-account-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
