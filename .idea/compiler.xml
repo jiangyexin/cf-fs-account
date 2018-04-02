@@ -14,7 +14,7 @@
         <module name="cf-fs-account-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="cf-fs-account" target="1.5" />
       <module name="cf-fs-account-common" target="1.5" />
       <module name="cf-fs-account-dao" target="1.5" />

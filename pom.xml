@@ -20,8 +20,8 @@
     <!--属性-->
     <properties>
         <spring.version>4.2.5.RELEASE</spring.version><!--统一控制spring版本-->
-        <mybatis.version>3.3.0</mybatis.version>
-        <mybatis.spring.version>1.2.3</mybatis.spring.version>
+        <mybatis.version>3.2.3</mybatis.version>
+        <mybatis.spring.version>1.2.1</mybatis.spring.version>
         <mysql-connector-java>6.0.6</mysql-connector-java>
         <resteasy.version>2.2.1.GA</resteasy.version>
         <!-- log4j日志包版本号 -->
@@ -106,6 +106,11 @@
                 <groupId>org.jboss.resteasy</groupId>
                 <artifactId>resteasy-spring</artifactId>
                 <version>${resteasy.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>commons-logging</groupId>
+                <artifactId>commons-logging</artifactId>
+                <version>1.1.1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

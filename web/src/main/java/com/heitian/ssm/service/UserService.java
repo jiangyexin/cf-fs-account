@@ -20,4 +20,9 @@ public class UserService {
     public List<User> getAllUsers() {
         return userDao.selectAllUser();
     }
+
+    public User getuserById(Long userId) {
+        return userDao.selectUserById(userId);
+    }
+
 }
